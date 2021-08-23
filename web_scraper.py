@@ -24,6 +24,6 @@ class Scraper:
             print(i,'\t',url)
 
 if __name__ == '__main__':
-    link = 'https://www.pornhub.com'
+    link = 'https://www.espn.com'
     scrape = Scraper(link)
     scrape.scrape()
